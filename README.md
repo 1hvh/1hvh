@@ -5,7 +5,7 @@
 [![Follow Badge](https://img.shields.io/github/followers/1hvh?style=social) 
 
 
-I am @1hvh 😃. I am currently working in backend development. In my free time I study information security and system programming .I love to explore and learn about new things.
+I am @1hvh 😃. I am currently working in backend development. In my free time I study information security and system programming. I love to explore and learn about new things.
 
 ## ⚡ Technologies
 Talk to me about
