@@ -9,11 +9,10 @@ I am @1hvh 😃. I am currently working in backend development. In my free time 
 
 ## ⚡ Technologies
 Talk to me about
-- Backend development using **Spring boot, Rocket, Nest.js**
+- Backend development using **Spring boot, Gin, Nest.js**
 - Desktop application development using **WPF/UWP, JavaFx**(Still learning)
-- System application development using **Rust**
-- Creating scalable cloud architecture using **Microsoft Azure**
-- Solving Data structure and algorithm questions in **Java and Rust**
+- Utility application development using **Go**
+- Solving Data structure and algorithm questions in **Java and Go**
 ## Statistics 🤔
 
 
