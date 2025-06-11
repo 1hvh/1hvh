@@ -6,5 +6,3 @@
 
 
 ![Codewars profile](https://www.codewars.com/users/h4x0r1337/badges/large)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=1hvh.1hvh)
