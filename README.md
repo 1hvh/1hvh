@@ -5,18 +5,6 @@
 [![Follow Badge](https://img.shields.io/github/followers/1hvh?style=social) 
 
 
-I am @1hvh 😃. I am currently working in backend development. In my free time I study information security and system programming. I love to explore and learn about new things.
-
-## ⚡ Technologies
-Talk to me about
-- Backend development using **Spring boot, ActixWeb, Nest.js**
-- Desktop application development using **WPF/UWP, JavaFx**
-- Utility application development using **Rust**
-- Solving Data structure and algorithm questions in **Java and Rust**
-## Statistics 🤔
-
-
-
 ![Codewars profile](https://www.codewars.com/users/h4x0r1337/badges/large)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=1hvh.1hvh)
